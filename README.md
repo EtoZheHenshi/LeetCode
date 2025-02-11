@@ -11,6 +11,6 @@ My solved problems from [LeetCode](https://leetcode.com/problems/)
   
   | # | Title | Solution |   Date   | Runtime | Memory |
   |---| ----- | -------- | -------- | --------| ------ |
-  |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C#](./LeetCode/Easy/1/Solution.cs) || [Runtime]()|[Memory]()
+  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C#](./LeetCode/Easy/1/Solution.cs) | 11.02.2025 | [Runtime]()|[Memory]()
 
 </details>
