@@ -6,7 +6,7 @@ link - https://leetcode.com/problems/palindrome-number/description/
 Given an integer x, return true if x is a palindrome, and false otherwise.
 */
 
-public class Solution_1
+public class Solution_09_1
 {
     public bool IsPalindrome(int x)
     {
@@ -31,7 +31,7 @@ public class Solution_1
     }
 }
 
-public class Solution_2
+public class Solution_09_2
 {
     public bool IsPalindrome(int x)
     {

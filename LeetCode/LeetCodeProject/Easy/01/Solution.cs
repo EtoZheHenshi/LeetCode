@@ -10,7 +10,7 @@ You may assume that each input would have exactly one solution, and you may not 
 You can return the answer in any order.
 */
 
-public class Solution
+public class Solution_01
 {
     public int[] TwoSum(int[] nums, int target)
     {
@@ -28,3 +28,4 @@ public class Solution
         return null;
     }
 }
+
