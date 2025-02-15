@@ -78,13 +78,6 @@ public class Solution_20
             }
         }
 
-        if (openingBrackets.Count == 0)
-        {
-            return true;
-        }
-        else
-        {
-            return false;
-        }
+        return openingBrackets.Count == 0;
     }
 }
