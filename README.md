@@ -15,5 +15,6 @@ My solved problems from [LeetCode](https://leetcode.com/problems/)
   | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C#](./LeetCode/LeetCodeProject/Easy/09/Solution.cs) | 12.02.2025 | [Runtime]()|[Memory]()
   | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C#](./LeetCode/LeetCodeProject/Easy/13/Solution.cs) | 13.02.2025 | [Runtime]()|[Memory]()
   | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C#](./LeetCode/LeetCodeProject/Easy/14/Solution.cs) | 14.02.2025 | [Runtime]()|[Memory]()
+  | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C#](./LeetCode/LeetCodeProject/Easy/20/Solution.cs) | 15.02.2025 | [Runtime]()|[Memory]()
 
 </details>

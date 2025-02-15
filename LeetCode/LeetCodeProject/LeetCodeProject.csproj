@@ -35,12 +35,15 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
     <Compile Include="Easy\01\Solution.cs" />
     <Compile Include="Easy\09\Solution.cs" />
     <Compile Include="Easy\13\Solution.cs" />
     <Compile Include="Easy\14\Solution.cs" />
+    <Compile Include="Easy\20\Solution.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
