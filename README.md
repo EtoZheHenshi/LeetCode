@@ -19,5 +19,6 @@ My solved problems from [LeetCode](https://leetcode.com/problems/)
   | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C#](./LeetCode/LeetCodeProject/Easy/21/Solution.cs) | 06.03.2025 | [Runtime]()|[Memory]()
   | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C#](./LeetCode/LeetCodeProject/Easy/26/Solution.cs) | 10.03.2025 | [Runtime]()|[Memory]()
   | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C#](./LeetCode/LeetCodeProject/Easy/27/Solution.cs) | 11.03.2025 | [Runtime]()|[Memory]()
+  | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [C#](./LeetCode/LeetCodeProject/Easy/28/Solution.cs) | 13.03.2025 | [Runtime]()|[Memory]()
 
 </details>
