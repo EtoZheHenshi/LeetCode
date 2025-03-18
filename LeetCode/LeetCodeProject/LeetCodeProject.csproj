@@ -41,6 +41,7 @@
     <Compile Include="Easy\13\Solution.cs" />
     <Compile Include="Easy\14\Solution.cs" />
     <Compile Include="Easy\20\Solution.cs" />
+    <Compile Include="Easy\35\Solution.cs" />
     <Compile Include="Easy\28\Solution.cs" />
     <Compile Include="Easy\27\Solution.cs" />
     <Compile Include="Easy\26\Solution.cs" />
